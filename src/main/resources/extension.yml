@@ -1,0 +1,5 @@
+name: AllianceExtensionExample
+version: '1.0'
+main: net.alliancecraft.allianceExtensionExample.AllianceExtensionExample
+authors: [ joseplay1012 ]
+description: "A extension example for AllianceUtils"
